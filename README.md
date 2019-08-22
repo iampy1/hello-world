@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository.
+This repo shows why Goku is way stronger than Superman.
